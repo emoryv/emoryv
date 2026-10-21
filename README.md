@@ -6,6 +6,8 @@ I build software that connects perception, planning, control, and data. My work 
 
 B.S. Computer Science, expected May 2029 · Meinig Family Cornell National Scholar
 
+**Seeking internship opportunities across computer science.**
+
 ## Technical Skills
 
 **Programming Languages:** Python; Java; C++.
