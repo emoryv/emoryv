@@ -2,51 +2,45 @@
 
 **Cornell Computer Science · Robotics, machine learning, and software systems**
 
-I'm a Cornell University computer science student and Meinig Family Cornell National Scholar, pursuing my B.S. with graduation expected in May 2029. I build software for robotic perception, autonomy, research data collection, and vector-search performance.
+B.S. Computer Science, expected May 2029 · Meinig Family Cornell National Scholar
+
+I build software for robotic perception, autonomy, and research data collection. My work spans robot-learning infrastructure at Cornell's Praxis Lab, autonomous drones, underground SLAM, and vector-indexing optimization.
 
 **Seeking internship opportunities across computer science.**
 
-## Selected engineering work
+## Selected projects
 
-| Project | My contributions |
+| Project | My contribution |
 | --- | --- |
-| [Dual-Arm Robot Learning](https://github.com/emoryv/dual-arm-robot-learning) | Developed an imitation-learning data-collection pipeline at Cornell's Praxis Lab, integrating MuJoCo, ROS teleoperation, multi-camera streams, and Zarr recording. |
-| [Autonomous Racing Drone](https://github.com/emoryv/autonomous-racing-drone) | Contributed to a team autonomy stack and prepared flight-log data for gate-detection model training and evaluation in the Anduril AI Grand Prix. |
-| [Autonomous Drone Swarm](https://github.com/emoryv/autonomous-drone-swarm) | Developed and flight-tested ROS 2 autonomy software; trained and deployed a PyTorch hand-gesture classifier connected to swarm commands. |
-| [SLAM & Robotic Mapping](https://github.com/emoryv/aria-slam-robotic-mapping) | Refined ROS-based SLAM integrating LiDAR and camera data, and field-tested Spot navigation in an underground mine at Colorado School of Mines' ARIA Lab. |
-| [NilVec Vector Indexing](https://github.com/emoryv/nilvec-vector-indexing) · [Source code fork](https://github.com/emoryv/NilVec) | Co-designed an optimistic-concurrency approach in a two-person team with an industry mentor. Reported indexing time on 1M vectors fell from approximately 400 seconds to 8 seconds: approximately 50× faster, or a 98% reduction in indexing time. The case study explains benchmark limitations. |
+| [Dual-Arm Robot Learning](https://github.com/emoryv/dual-arm-robot-learning) | Built a data-collection pipeline connecting MuJoCo, ROS teleoperation, multi-camera streams, and Zarr recording at Cornell's Praxis Lab. |
+| [Autonomous Drone Swarm](https://github.com/emoryv/autonomous-drone-swarm) | Developed and flight-tested ROS 2 autonomy software and trained a PyTorch gesture classifier for swarm commands. |
+| [SLAM & Robotic Mapping](https://github.com/emoryv/aria-slam-robotic-mapping) | Refined LiDAR/camera SLAM and field-tested Boston Dynamics Spot navigation in an underground mine at Colorado School of Mines' ARIA Lab. |
+| [Autonomous Racing Drone](https://github.com/emoryv/autonomous-racing-drone) | Prepared perception-training data and contributed to a team GPS-denied autonomy stack for the Anduril AI Grand Prix. |
+| [NilVec Vector Indexing](https://github.com/emoryv/nilvec-vector-indexing) | Co-designed an optimistic-concurrency approach to accelerate index construction in a two-person research team. |
 
-The project write-ups distinguish my contributions from team outcomes. Public source is linked below; the case-study repositories do not redistribute lab or team code and datasets.
-
-**Try a runnable example:** [Vector-search demo and setup instructions](https://github.com/emoryv/nilvec-vector-indexing/tree/main/examples).
-
-### Public source code
-
-- **[NilVec source fork](https://github.com/emoryv/NilVec)** · [Upstream project](https://github.com/C0ll1nDr4k3/NilVec). Rust vector-search implementation, Python bindings, and benchmark scripts. The fork preserves the upstream code and history; my [case study](https://github.com/emoryv/nilvec-vector-indexing) describes my collaborative design contribution.
-- **[CUAD GestureDrone](https://github.com/CUAutoDrone/GestureDrone)** · Public Cornell team repository containing gesture-data collection, model training and inference, and ROS integration. Shared as team implementation context for the [swarm case study](https://github.com/emoryv/autonomous-drone-swarm); individual file authorship follows the upstream history.
+Project pages describe my role, technical context, and available source. Collaborative lab and team work is presented as case studies.
 
 ## Technical toolkit
 
-- **Languages:** Python, Java, C++
-- **Machine learning & vision:** PyTorch, TensorFlow / TensorFlow Lite, OpenCV, MediaPipe
-- **Robotics & research data:** ROS / ROS 2, MuJoCo, MAVROS, Zarr
-- **Development:** Git, Linux, Docker
-- **Engineering interests:** robot perception and planning, ML data pipelines, concurrent programming, and performance optimization
+**Languages:** Python, Java, C++  
+**ML & vision:** PyTorch, TensorFlow / TensorFlow Lite, OpenCV, MediaPipe  
+**Robotics & data:** ROS / ROS 2, MuJoCo, MAVROS, Zarr  
+**Development:** Git, Linux, Docker
 
 ## Earlier projects
 
-**Congressional App Challenge · Team Lead · Fall 2023**  
-Built an experimental Android app with Kotlin and TensorFlow Lite exploring facial-image classification for intoxication detection, with a focus on model integration and user experience. This was a student prototype, not a validated tool for determining intoxication or fitness to drive.
+**Android intoxication-detection prototype · Congressional App Challenge · Team Lead · Fall 2023**  
+Built an experimental Android app with Kotlin and TensorFlow Lite, focusing on facial-image model integration and user experience. Student research prototype; not validated for determining intoxication or fitness to drive.
 
-**Inspirit AI · Summer 2023**  
-Trained and evaluated machine-learning models using NASA Kepler data to identify exoplanet signals, including data preprocessing and analysis.
+**Exoplanet detection · Inspirit AI · Summer 2023**  
+Trained and evaluated ML models on NASA Kepler data, including preprocessing and analysis.
 
 ## Leadership & community
 
 **Founder & Executive Director, Connect Digital Inclusion Labs · 2022–present**  
-Founded a nonprofit providing technology education through 50+ workshops for 300+ participants. Led 20+ volunteers and secured county grant funding.
+Led 20+ volunteers delivering 50+ technology workshops for 300+ participants and secured county grant funding.
 
-Previously served on the Lafayette Youth Advisory Commission (2023–2025) and led outreach and tutoring through the Computer Science Honor Society (2022–2025).
+Previously served on the Lafayette Youth Advisory Commission and led Computer Science Honor Society outreach and tutoring.
 
 ## Contact
 
