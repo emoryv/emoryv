@@ -18,6 +18,8 @@ I'm a Cornell University computer science student and Meinig Family Cornell Nati
 
 The project write-ups distinguish my contributions from team outcomes. Public source is linked below; the case-study repositories do not redistribute lab or team code and datasets.
 
+**Try a runnable example:** [Vector-search demo and setup instructions](https://github.com/emoryv/nilvec-vector-indexing/tree/main/examples).
+
 ### Public source code
 
 - **[NilVec source fork](https://github.com/emoryv/NilVec)** · [Upstream project](https://github.com/C0ll1nDr4k3/NilVec). Rust vector-search implementation, Python bindings, and benchmark scripts. The fork preserves the upstream code and history; my [case study](https://github.com/emoryv/nilvec-vector-indexing) describes my collaborative design contribution.
