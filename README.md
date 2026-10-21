@@ -16,7 +16,12 @@ I'm a Cornell University computer science student and Meinig Family Cornell Nati
 | [SLAM & Robotic Mapping](https://github.com/emoryv/aria-slam-robotic-mapping) | Refined ROS-based SLAM integrating LiDAR and camera data, and field-tested Spot navigation in an underground mine at Colorado School of Mines' ARIA Lab. |
 | [NilVec Vector Indexing](https://github.com/emoryv/nilvec-vector-indexing) · [Source code fork](https://github.com/emoryv/NilVec) | Co-designed an optimistic-concurrency approach in a two-person team with an industry mentor. Reported indexing time on 1M vectors fell from approximately 400 seconds to 8 seconds: approximately 50× faster, or a 98% reduction in indexing time. The case study explains benchmark limitations. |
 
-These repositories are technical case studies of my contributions. Each distinguishes my work from team outcomes; original lab and team source code and datasets are not included.
+The project write-ups distinguish my contributions from team outcomes. Public source is linked below; the case-study repositories do not redistribute lab or team code and datasets.
+
+### Public source code
+
+- **[NilVec source fork](https://github.com/emoryv/NilVec)** · [Upstream project](https://github.com/C0ll1nDr4k3/NilVec). Rust vector-search implementation, Python bindings, and benchmark scripts. The fork preserves the upstream code and history; my [case study](https://github.com/emoryv/nilvec-vector-indexing) describes my collaborative design contribution.
+- **[CUAD GestureDrone](https://github.com/CUAutoDrone/GestureDrone)** · Public Cornell team repository containing gesture-data collection, model training and inference, and ROS integration. Shared as team implementation context for the [swarm case study](https://github.com/emoryv/autonomous-drone-swarm); individual file authorship follows the upstream history.
 
 ## Technical toolkit
 
