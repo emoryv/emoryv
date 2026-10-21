@@ -4,7 +4,7 @@
 
 I'm a Cornell University computer science student and Meinig Family Cornell National Scholar, pursuing my B.S. with graduation expected in May 2029. I build software for robotic perception, autonomy, research data collection, and vector-search performance.
 
-**Seeking software engineering, robotics, and machine learning internships.**
+**Seeking internship opportunities across computer science.**
 
 ## Selected engineering work
 
@@ -14,7 +14,7 @@ I'm a Cornell University computer science student and Meinig Family Cornell Nati
 | [Autonomous Racing Drone](https://github.com/emoryv/autonomous-racing-drone) | Contributed to a team autonomy stack and prepared flight-log data for gate-detection model training and evaluation in the Anduril AI Grand Prix. |
 | [Autonomous Drone Swarm](https://github.com/emoryv/autonomous-drone-swarm) | Developed and flight-tested ROS 2 autonomy software; trained and deployed a PyTorch hand-gesture classifier connected to swarm commands. |
 | [SLAM & Robotic Mapping](https://github.com/emoryv/aria-slam-robotic-mapping) | Refined ROS-based SLAM integrating LiDAR and camera data, and field-tested Spot navigation in an underground mine at Colorado School of Mines' ARIA Lab. |
-| [NilVec Vector Indexing](https://github.com/emoryv/nilvec-vector-indexing) | Co-designed an optimistic-concurrency approach to accelerate vector indexing in a two-person team with an industry mentor. The case study explains the reported timing results and benchmark limitations. |
+| [NilVec Vector Indexing](https://github.com/emoryv/nilvec-vector-indexing) | Co-designed an optimistic-concurrency approach in a two-person team with an industry mentor. Reported indexing time on 1M vectors fell from approximately 400 seconds to 8 seconds: approximately 50× faster, or a 98% reduction in indexing time. The case study explains benchmark limitations. |
 
 These repositories are technical case studies of my contributions. Each distinguishes my work from team outcomes; original lab and team source code and datasets are not included.
 
