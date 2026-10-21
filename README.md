@@ -22,8 +22,6 @@ B.S. Computer Science, expected May 2029 · Meinig Family Cornell National Schol
 
 **Research & Engineering:** Experimental Design & Testing; Robotics Research; Algorithm Implementation; Technical Problem-Solving; Iterative Development; Cross-Disciplinary Collaboration; Research Prototyping.
 
-C++ proficiency: working familiarity.
-
 ## Selected engineering work
 
 My contributions include training and deploying a hand-landmark gesture classifier with temporal smoothing, preparing data for a team gate-detection CNN, recording arm/gripper demonstrations, and diagnosing navigation failures through flight and field testing.
