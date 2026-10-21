@@ -46,4 +46,6 @@ Founded a nonprofit providing technology education through 50+ workshops for 300
 
 Previously served on the Lafayette Youth Advisory Commission (2023–2025) and led outreach and tutoring through the Computer Science Honor Society (2022–2025).
 
-[LinkedIn](https://www.linkedin.com/in/emoryvazquez/)
+## Contact
+
+[Email](mailto:emoryevazquez@gmail.com) · [LinkedIn](https://www.linkedin.com/in/emoryvazquez/)
