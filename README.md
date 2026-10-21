@@ -1,45 +1,44 @@
 # Emory Vazquez
 
-**Computer Science at Cornell University · Robotics, autonomy, and machine learning**
+**Cornell Computer Science · Robotics, machine learning, and software systems**
 
-I build software that connects perception, planning, control, and data. My work spans robot-learning infrastructure, autonomous drones, SLAM, and vector-search performance.
+I'm a Cornell University computer science student and Meinig Family Cornell National Scholar, pursuing my B.S. with graduation expected in May 2029. I build software for robotic perception, autonomy, research data collection, and vector-search performance.
 
-B.S. Computer Science, expected May 2029 · Meinig Family Cornell National Scholar
-
-**Seeking internship opportunities across computer science.**
-
-## Technical Skills
-
-**Programming Languages:** Python; Java; C++.
-
-**Software Engineering:** Software Development; Object-Oriented Programming (OOP); Data Structures & Algorithms; Software Architecture; Systems Integration; Debugging & Troubleshooting; Software Testing; Performance Optimization; Concurrent Programming; Algorithm Design.
-
-**Artificial Intelligence & Machine Learning:** Machine Learning; Deep Learning; PyTorch; TensorFlow / TensorFlow Lite; Computer Vision; Neural Networks; Convolutional Neural Networks (CNNs); Model Training & Evaluation; Model Inference & Deployment; Imitation Learning Data Pipelines; Gesture Recognition; TensorRT; MediaPipe; OpenCV.
-
-**Robotics & Autonomous Systems:** Robot Operating System (ROS / ROS 2); Autonomous Navigation; Robotic Perception; Simultaneous Localization and Mapping (SLAM); Sensor Fusion; State Estimation; Visual Odometry; GPS-Denied Navigation; Path Planning; Obstacle Avoidance; D* Lite; Multi-Agent Systems; Autonomous Drone Systems; Robotic Manipulation; Robot Teleoperation; MAVROS; LiDAR Integration; Camera & IMU Integration; MuJoCo Simulation; Extended Kalman Filters (EKF).
-
-**Data Engineering & Optimization:** Data Collection Pipelines; Data Processing; Data Cleaning & Preparation; Multi-Camera Data Recording; Robotics Training Datasets; Zarr; Vector Search; Vector Indexing; Optimistic Concurrency; Benchmarking; Algorithm Optimization.
-
-**Systems, Platforms & Development Tools:** Linux; Git; GitHub; Docker; Raspberry Pi; Embedded Computing; Real-Time Robotics Software; Hardware–Software Integration; Simulation & Physical-System Testing.
-
-**Research & Engineering:** Experimental Design & Testing; Robotics Research; Algorithm Implementation; Technical Problem-Solving; Iterative Development; Cross-Disciplinary Collaboration; Research Prototyping.
+**Seeking software engineering, robotics, and machine learning internships.**
 
 ## Selected engineering work
 
-My contributions include training and deploying a hand-landmark gesture classifier with temporal smoothing, preparing data for a team gate-detection CNN, recording arm/gripper demonstrations, and diagnosing navigation failures through flight and field testing.
-
-| Project | Focus |
+| Project | My contributions |
 | --- | --- |
-| [Autonomous Racing Drone](https://github.com/emoryv/autonomous-racing-drone) | Anduril AI Grand Prix; GPS-denied autonomy, perception data, and camera/IMU fusion |
-| [Dual-Arm Robot Learning](https://github.com/emoryv/dual-arm-robot-learning) | Cornell Praxis Lab; MuJoCo, ROS teleoperation, multi-camera recording, and Zarr |
-| [Autonomous Drone Swarm](https://github.com/emoryv/autonomous-drone-swarm) | Cornell CUAD; ROS 2 navigation, multi-agent coordination, and gesture control |
-| [SLAM & Robotic Mapping](https://github.com/emoryv/aria-slam-robotic-mapping) | ARIA Lab; Spot navigation, LiDAR/camera SLAM, and underground field testing |
-| [NilVec Vector Indexing](https://github.com/emoryv/nilvec-vector-indexing) | Optimistic concurrency; approximately 50× faster indexing on a 1M-vector dataset |
+| [Dual-Arm Robot Learning](https://github.com/emoryv/dual-arm-robot-learning) | Developed an imitation-learning data-collection pipeline at Cornell's Praxis Lab, integrating MuJoCo, ROS teleoperation, multi-camera streams, and Zarr recording. |
+| [Autonomous Racing Drone](https://github.com/emoryv/autonomous-racing-drone) | Contributed to a team autonomy stack and prepared flight-log data for gate-detection model training and evaluation in the Anduril AI Grand Prix. |
+| [Autonomous Drone Swarm](https://github.com/emoryv/autonomous-drone-swarm) | Developed and flight-tested ROS 2 autonomy software; trained and deployed a PyTorch hand-gesture classifier connected to swarm commands. |
+| [SLAM & Robotic Mapping](https://github.com/emoryv/aria-slam-robotic-mapping) | Refined ROS-based SLAM integrating LiDAR and camera data, and field-tested Spot navigation in an underground mine at Colorado School of Mines' ARIA Lab. |
+| [NilVec Vector Indexing](https://github.com/emoryv/nilvec-vector-indexing) | Co-designed an optimistic-concurrency approach to accelerate vector indexing in a two-person team with an industry mentor. The case study explains the reported timing results and benchmark limitations. |
 
-These repositories document my contributions to collaborative projects. Each case study distinguishes my work from team outcomes; they are portfolio write-ups rather than releases of the original lab or team source code.
+These repositories are technical case studies of my contributions. Each distinguishes my work from team outcomes; original lab and team source code and datasets are not included.
 
-## Beyond engineering
+## Technical toolkit
 
-I founded Connect Digital Inclusion Labs, a nonprofit that provided technology education to more than 300 participants.
+- **Languages:** Python, Java, C++
+- **Machine learning & vision:** PyTorch, TensorFlow / TensorFlow Lite, OpenCV, MediaPipe
+- **Robotics & research data:** ROS / ROS 2, MuJoCo, MAVROS, Zarr
+- **Development:** Git, Linux, Docker
+- **Engineering interests:** robot perception and planning, ML data pipelines, concurrent programming, and performance optimization
+
+## Earlier projects
+
+**Congressional App Challenge · Team Lead · Fall 2023**  
+Built an experimental Android app with Kotlin and TensorFlow Lite exploring facial-image classification for intoxication detection, with a focus on model integration and user experience. This was a student prototype, not a validated tool for determining intoxication or fitness to drive.
+
+**Inspirit AI · Summer 2023**  
+Trained and evaluated machine-learning models using NASA Kepler data to identify exoplanet signals, including data preprocessing and analysis.
+
+## Leadership & community
+
+**Founder & Executive Director, Connect Digital Inclusion Labs · 2022–present**  
+Founded a nonprofit providing technology education through 50+ workshops for 300+ participants. Led 20+ volunteers and secured county grant funding.
+
+Previously served on the Lafayette Youth Advisory Commission (2023–2025) and led outreach and tutoring through the Computer Science Honor Society (2022–2025).
 
 [LinkedIn](https://www.linkedin.com/in/emoryvazquez/)
