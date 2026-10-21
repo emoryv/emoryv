@@ -22,23 +22,11 @@ B.S. Computer Science, expected May 2029 · Meinig Family Cornell National Schol
 
 **Research & Engineering:** Experimental Design & Testing; Robotics Research; Algorithm Implementation; Technical Problem-Solving; Iterative Development; Cross-Disciplinary Collaboration; Research Prototyping.
 
-## Engineering experience
-
-**Programming:** Python, Java; C++ (working familiarity).
-
-**Robotics & autonomy:** ROS/ROS 2, MAVROS, MuJoCo, SLAM, sensor fusion, state estimation, and motion planning. Project experience includes GPS-denied navigation, visual odometry, camera-based obstacle avoidance, D* Lite replanning, camera/IMU fusion, error-state EKF, and multi-agent coordination.
-
-**Software engineering:** Integrating perception, planning, control, and recording components; debugging simulation and physical-robot infrastructure; diagnosing navigation failures; flight and field testing; optimistic concurrency and vector-indexing performance optimization.
-
-**AI/ML & perception:** PyTorch, TensorFlow, TensorRT, OpenCV, computer vision, and MediaPipe. Trained and deployed a gesture classifier using hand landmarks and temporal smoothing; prepared training and evaluation data for a team gate-detection CNN.
-
-**Data pipelines:** Robot-learning demonstration collection for imitation learning; ROS teleoperation, multi-camera streams, arm/gripper observations, and Zarr recording; flight-log curation and cleaning for perception-model training and evaluation.
-
-**Systems & tools:** Linux, Git, Docker, Raspberry Pi, and Zarr; integration across simulation, onboard computing, and physical robots.
-
-**Research skills:** Collaborative algorithm development, experimental performance comparison, iterative field validation, failure diagnosis, and research data collection. Experience spans robot learning at Cornell's Praxis Lab, autonomy at Cornell CUAD and ARIA Lab, and vector-indexing optimization.
+C++ proficiency: working familiarity.
 
 ## Selected engineering work
+
+My contributions include training and deploying a hand-landmark gesture classifier with temporal smoothing, preparing data for a team gate-detection CNN, recording arm/gripper demonstrations, and diagnosing navigation failures through flight and field testing.
 
 | Project | Focus |
 | --- | --- |
