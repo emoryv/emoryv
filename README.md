@@ -8,6 +8,12 @@ I build software for data-intensive applications and autonomous systems. My expe
 
 **I'm looking for computer science internships.**
 
+## Relevant coursework
+
+**Completed:** Object-Oriented Programming & Data Structures (CS 2110); Mathematical Foundations of Computer Science (CS 2800); Data and Decisions (ENGRI 1101); Multivariable Calculus for Engineers (MATH 1920).
+
+**In progress · Fall 2026:** Independent Reading & Research (CS 4999); Introduction to Circuits for Electrical & Computer Engineering (ECE 2100); Differential Equations for Engineers (MATH 2930).
+
 ## Selected projects
 
 | Project | My contribution |
