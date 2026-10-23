@@ -22,10 +22,12 @@ Each project page explains my contributions and links to public code where avail
 
 ## Skills
 
-**Languages:** Python, Java, C++  
-**ML & vision:** PyTorch, TensorFlow / TensorFlow Lite, OpenCV, MediaPipe  
-**Robotics & data:** ROS / ROS 2, MuJoCo, MAVROS, Zarr  
-**Development:** Git, Linux, Docker
+**Languages:** Python, Java, C++ (working familiarity)  
+**Software engineering:** Object-oriented programming, data structures & algorithms, systems integration, debugging, software testing, performance optimization  
+**ML & vision:** PyTorch, TensorFlow / TensorFlow Lite, OpenCV, MediaPipe, computer vision, model training & evaluation, gesture recognition  
+**Robotics:** ROS / ROS 2, SLAM, sensor fusion, autonomous navigation, path planning, teleoperation, MuJoCo, MAVROS  
+**Data & indexing:** Imitation learning data pipelines, data preparation, multi-camera recording, Zarr, vector indexing, optimistic concurrency  
+**Tools & platforms:** Git, Linux, Docker, Raspberry Pi
 
 ## Earlier projects
 
