@@ -2,7 +2,7 @@
 
 **Computer science student at Cornell · Robotics, machine learning, and software systems**
 
-B.S. Computer Science, expected May 2029 · Meinig Family Cornell National Scholar
+B.S. Computer Science, expected May 2029 (GPA 3.83) · Meinig Family Cornell National Scholar
 
 I build software for robots and machine learning research. My projects include data collection for robot learning at Cornell's Praxis Lab, autonomous drones, underground mapping, and faster vector indexing.
 
