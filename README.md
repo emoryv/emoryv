@@ -32,9 +32,9 @@ Each project page explains my contributions and links to public code where avail
 
 ## Relevant coursework
 
-**Completed:** Object-Oriented Programming & Data Structures (CS 2110); Mathematical Foundations of Computer Science (CS 2800); Data and Decisions (ENGRI 1101); Multivariable Calculus for Engineers (MATH 1920).
+**Completed:** Object-Oriented Programming & Data Structures (CS 2110); Mathematical Foundations of Computer Science (CS 2800); Data and Decisions (ENGRI 1101); Multivariable Calculus for Engineers (MATH 1920); Introduction to Experimental Physics (PHYS 1110); Physics I: Mechanics & Heat (PHYS 1112).
 
-**In progress · Fall 2026:** Independent Reading & Research (CS 4999); Introduction to Circuits for Electrical & Computer Engineering (ECE 2100); Differential Equations for Engineers (MATH 2930).
+**In progress · Fall 2026:** Independent Reading & Research (CS 4999); Introduction to Circuits for Electrical & Computer Engineering (ECE 2100); Differential Equations for Engineers (MATH 2930); Physics II: Electromagnetism (PHYS 2213) and its supplement (PHYS 1013).
 
 ## Earlier projects
 
