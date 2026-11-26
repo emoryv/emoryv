@@ -2,7 +2,7 @@
 
 **Cornell Engineering student working on software, machine learning, and robotics**
 
-Exploring majors in Computer Science and Electrical and Computer Engineering · Expected May 2029 (GPA 3.83) · Meinig Family Cornell National Scholar
+Major: Electrical & Computer Engineering / Computer Science · Expected May 2029 (GPA 3.83) · Meinig Family Cornell National Scholar
 
 I build software for data-intensive applications and autonomous systems. My experience includes machine learning, performance optimization, vector indexing, and robotics research.
 
