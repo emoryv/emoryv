@@ -1,6 +1,6 @@
 # Emory Vazquez
 
-**Cornell Engineering student working on software, machine learning, and robotics**
+**Cornell Engineering student building software for robotics and machine learning**
 
 Major: Electrical & Computer Engineering / Computer Science · Expected May 2029 (GPA 3.83) · Meinig Family Cornell National Scholar
 
