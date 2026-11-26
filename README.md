@@ -26,14 +26,102 @@ I build software for data-intensive applications and autonomous systems. My expe
 
 Each project page explains my contributions and links to public code where available.
 
-## Skills
+## Technical Skills
 
-**Languages:** Python, Java, C++ (working familiarity)  
-**Software engineering:** Object-oriented programming, data structures & algorithms, systems integration, debugging, software testing, performance optimization  
-**ML & vision:** PyTorch, TensorFlow / TensorFlow Lite, OpenCV, MediaPipe, computer vision, model training & evaluation, gesture recognition  
-**Robotics:** ROS / ROS 2, SLAM, sensor fusion, autonomous navigation, path planning, teleoperation, MuJoCo, MAVROS  
-**Data & indexing:** Imitation learning data pipelines, data preparation, multi-camera recording, Zarr, vector indexing, optimistic concurrency  
-**Tools & platforms:** Git, Linux, Docker, Raspberry Pi
+### Programming Languages
+
+- Python
+- Java
+- C++
+
+### Software Engineering
+
+- Software Development
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Software Architecture
+- Systems Integration
+- Debugging & Troubleshooting
+- Software Testing
+- Performance Optimization
+- Concurrent Programming
+- Algorithm Design
+
+### Artificial Intelligence & Machine Learning
+
+- Machine Learning
+- Deep Learning
+- PyTorch
+- TensorFlow / TensorFlow Lite
+- Computer Vision
+- Neural Networks
+- Convolutional Neural Networks (CNNs)
+- Model Training & Evaluation
+- Model Inference & Deployment
+- Imitation Learning Data Pipelines
+- Gesture Recognition
+- TensorRT
+- MediaPipe
+- OpenCV
+
+### Robotics & Autonomous Systems
+
+- Robot Operating System (ROS / ROS 2)
+- Autonomous Navigation
+- Robotic Perception
+- Simultaneous Localization and Mapping (SLAM)
+- Sensor Fusion
+- State Estimation
+- Visual Odometry
+- GPS-Denied Navigation
+- Path Planning
+- Obstacle Avoidance
+- D* Lite
+- Multi-Agent Systems
+- Autonomous Drone Systems
+- Robotic Manipulation
+- Robot Teleoperation
+- MAVROS
+- LiDAR Integration
+- Camera & IMU Integration
+- MuJoCo Simulation
+- Extended Kalman Filters (EKF)
+
+### Data Engineering & Optimization
+
+- Data Collection Pipelines
+- Data Processing
+- Data Cleaning & Preparation
+- Multi-Camera Data Recording
+- Robotics Training Datasets
+- Zarr
+- Vector Search
+- Vector Indexing
+- Optimistic Concurrency
+- Benchmarking
+- Algorithm Optimization
+
+### Systems, Platforms & Development Tools
+
+- Linux
+- Git
+- GitHub
+- Docker
+- Raspberry Pi
+- Embedded Computing
+- Real-Time Robotics Software
+- Hardware–Software Integration
+- Simulation & Physical-System Testing
+
+### Research & Engineering
+
+- Experimental Design & Testing
+- Robotics Research
+- Algorithm Implementation
+- Technical Problem-Solving
+- Iterative Development
+- Cross-Disciplinary Collaboration
+- Research Prototyping
 
 ## Earlier projects
 
