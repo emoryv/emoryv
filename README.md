@@ -6,122 +6,35 @@ B.S. Computer Science, expected May 2029 (GPA 3.83) · Meinig Family Cornell Nat
 
 I build software for data-intensive applications and autonomous systems. My experience includes machine learning, performance optimization, vector indexing, and robotics research.
 
-**I'm looking for computer science internships.**
+**I'm seeking a Summer 2027 internship in software engineering, machine learning, or robotics.**
+
+## Selected projects
+
+| Project | My contribution |
+| --- | --- |
+| [Dual-Arm Robot Learning](https://github.com/emoryv/dual-arm-robot-learning) | Adapted and debugged a recorder that captures arm and gripper states alongside wrist and external camera video, in simulation and on two xArm6 robots. |
+| [Autonomous Drone Swarm](https://github.com/emoryv/autonomous-drone-swarm) | Developed and flight-tested ROS 2 software and trained a PyTorch model to recognize hand gestures for drone control. [Team code](https://github.com/CUAutoDrone/GestureDrone) |
+| [SLAM & Robotic Mapping](https://github.com/emoryv/aria-slam-robotic-mapping) | Improved SLAM software using LiDAR and camera data, and tested Spot's underground navigation at Colorado School of Mines' ARIA Lab. [9-second outdoor Spot video](https://github.com/emoryv/aria-slam-robotic-mapping/blob/main/media/spot-outdoor-demo.mp4) |
+| [Autonomous Racing Drone](https://github.com/emoryv/autonomous-racing-drone) | Prepared training data for gate detection and helped build and test autonomous racing software for the Anduril AI Grand Prix. |
+| [NilVec Vector Indexing](https://github.com/emoryv/nilvec-vector-indexing) | Co-designed an optimistic concurrency approach for building vector indexes. [Source fork](https://github.com/emoryv/NilVec) |
+
+Each project page explains my contributions and links to public code where available.
+
+## Technical Skills
+
+- **Languages** — Python, Java, C++ (working familiarity)
+- **Software engineering** — Object-oriented programming, data structures and algorithms, concurrent programming, debugging, testing, performance optimization
+- **Machine learning and vision** — PyTorch, TensorFlow / TensorFlow Lite, OpenCV, MediaPipe, CNNs, gesture recognition, model training and deployment
+- **Robotics** — ROS / ROS 2, SLAM, visual odometry, sensor fusion, D* Lite path planning, MAVROS, teleoperation, MuJoCo
+- **Data engineering** — Imitation learning data collection, multi-camera recording, Zarr, vector search and indexing, optimistic concurrency
+- **Systems and tools** — Linux, Git, GitHub, Docker, Raspberry Pi, hardware–software integration
+- **Research and engineering** — Prototyping, simulation and field testing, benchmarking
 
 ## Relevant coursework
 
 **Completed:** Object-Oriented Programming & Data Structures (CS 2110); Mathematical Foundations of Computer Science (CS 2800); Data and Decisions (ENGRI 1101); Multivariable Calculus for Engineers (MATH 1920).
 
 **In progress · Fall 2026:** Independent Reading & Research (CS 4999); Introduction to Circuits for Electrical & Computer Engineering (ECE 2100); Differential Equations for Engineers (MATH 2930).
-
-## Selected projects
-
-| Project | My contribution |
-| --- | --- |
-| [Dual-Arm Robot Learning](https://github.com/emoryv/dual-arm-robot-learning) | Built a pipeline for collecting robot demonstrations using MuJoCo, ROS teleoperation, multiple cameras, and Zarr. |
-| [Autonomous Drone Swarm](https://github.com/emoryv/autonomous-drone-swarm) | Developed and flight-tested ROS 2 software and trained a PyTorch model to recognize hand gestures for drone control. |
-| [SLAM & Robotic Mapping](https://github.com/emoryv/aria-slam-robotic-mapping) | Improved SLAM software using LiDAR and camera data, and tested Spot's underground navigation at Colorado School of Mines' ARIA Lab. |
-| [Autonomous Racing Drone](https://github.com/emoryv/autonomous-racing-drone) | Prepared training data for gate detection and helped build and test autonomous racing software for the Anduril AI Grand Prix. |
-| [NilVec Vector Indexing](https://github.com/emoryv/nilvec-vector-indexing) | Worked with a teammate on an optimistic concurrency approach to make vector indexing faster. |
-
-Each project page explains my contributions and links to public code where available.
-
-## Technical Skills
-
-### Programming Languages
-
-- Python
-- Java
-- C++
-
-### Software Engineering
-
-- Software Development
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Software Architecture
-- Systems Integration
-- Debugging & Troubleshooting
-- Software Testing
-- Performance Optimization
-- Concurrent Programming
-- Algorithm Design
-
-### Artificial Intelligence & Machine Learning
-
-- Machine Learning
-- Deep Learning
-- PyTorch
-- TensorFlow / TensorFlow Lite
-- Computer Vision
-- Neural Networks
-- Convolutional Neural Networks (CNNs)
-- Model Training & Evaluation
-- Model Inference & Deployment
-- Imitation Learning Data Pipelines
-- Gesture Recognition
-- TensorRT
-- MediaPipe
-- OpenCV
-
-### Robotics & Autonomous Systems
-
-- Robot Operating System (ROS / ROS 2)
-- Autonomous Navigation
-- Robotic Perception
-- Simultaneous Localization and Mapping (SLAM)
-- Sensor Fusion
-- State Estimation
-- Visual Odometry
-- GPS-Denied Navigation
-- Path Planning
-- Obstacle Avoidance
-- D* Lite
-- Multi-Agent Systems
-- Autonomous Drone Systems
-- Robotic Manipulation
-- Robot Teleoperation
-- MAVROS
-- LiDAR Integration
-- Camera & IMU Integration
-- MuJoCo Simulation
-- Extended Kalman Filters (EKF)
-
-### Data Engineering & Optimization
-
-- Data Collection Pipelines
-- Data Processing
-- Data Cleaning & Preparation
-- Multi-Camera Data Recording
-- Robotics Training Datasets
-- Zarr
-- Vector Search
-- Vector Indexing
-- Optimistic Concurrency
-- Benchmarking
-- Algorithm Optimization
-
-### Systems, Platforms & Development Tools
-
-- Linux
-- Git
-- GitHub
-- Docker
-- Raspberry Pi
-- Embedded Computing
-- Real-Time Robotics Software
-- Hardware–Software Integration
-- Simulation & Physical-System Testing
-
-### Research & Engineering
-
-- Experimental Design & Testing
-- Robotics Research
-- Algorithm Implementation
-- Technical Problem-Solving
-- Iterative Development
-- Cross-Disciplinary Collaboration
-- Research Prototyping
 
 ## Earlier projects
 
